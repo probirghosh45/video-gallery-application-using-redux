@@ -1,2 +1,2 @@
-# Simple-Todo-Application-with-redux-server
+# Video-Gallery-Application-Server
 
