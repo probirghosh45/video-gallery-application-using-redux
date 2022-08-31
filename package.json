@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "json-server --watch db_todos.json --no-cors true --port 4500"
+        "start": "json-server --watch db_videos.json --no-cors true --port 4500"
     },
     "dependencies": {
         "json-server": "^0.17.0"
